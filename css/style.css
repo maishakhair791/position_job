@@ -13,6 +13,7 @@
     flex-wrap: wrap;
 }
 .common{
+    padding: 0px;
     height: 100px;
     width: 200px;
 }
