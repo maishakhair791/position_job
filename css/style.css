@@ -1,0 +1,28 @@
+*{padding-left: 100px;}
+.mother_div1{
+    height: 120px;
+    width: 300px;
+}
+.mother_div{
+    padding: 0px;
+    position:relative;
+    height:400px;
+    width: 600px;
+    background-color: #e998d3ed;
+    display:flex;
+    flex-wrap: wrap;
+}
+.common{
+    height: 100px;
+    width: 200px;
+}
+.child_1{
+    background: #e1d0d0;
+    
+}
+.child_2{
+    background: #8d7171;
+}
+.child_2:hover{
+    background: #8d7171;
+}
